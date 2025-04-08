@@ -1,4 +1,4 @@
-# Automação de Preenchimento de Dados em Sistemas (Primeiro Plano)
+# Automação de Preenchimento de Dados em Sistemas
 
 Este é um script de automação desenvolvido em Python para preencher automaticamente formulários em sistemas web utilizando o PyAutoGUI. A automação é executada em **primeiro plano**, interagindo diretamente com a interface do usuário (sem inspeção de elementos HTML), ideal para testes, cadastros repetitivos ou simulações de uso real.
 
