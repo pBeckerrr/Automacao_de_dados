@@ -14,9 +14,9 @@ A automação realiza os seguintes passos:
 
 ## Tecnologias Utilizadas
 
-- **PyAutoGUI:** Biblioteca Python para automação de mouse, teclado e telas.
-- **Pandas:** Biblioteca Python para manipulação de dados e leitura de arquivos CSV.
-- **Time:** Biblioteca nativa do Python para controle de tempo e delays.
+* **PyAutoGUI:** Biblioteca Python para automação de mouse, teclado e telas.
+* **Pandas:** Biblioteca Python para manipulação de dados e leitura de arquivos CSV.
+* **Time:** Biblioteca nativa do Python para controle de tempo e delays.
 
 ## Pré-requisitos
 
