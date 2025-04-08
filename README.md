@@ -22,3 +22,6 @@ A automação realiza os seguintes passos:
 
 Antes de executar a automação, certifique-se de ter o Python instalado e as bibliotecas necessárias.
 
+```bash
+pip install pyautogui
+pip install pandas
